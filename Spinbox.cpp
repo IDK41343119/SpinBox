@@ -1,5 +1,5 @@
-#include "widget.h"
-#include "ui_widget.h"
+#include "Spinbox.h"
+#include "ui_Spinbox.h"
 
 Widget::Widget(QWidget *parent)
     : QWidget(parent)

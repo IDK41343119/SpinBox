@@ -1,4 +1,4 @@
-#include "widget.h"
+#include "Spinbox.h"
 
 #include <QApplication>
 

@@ -1,5 +1,5 @@
-#ifndef WIDGET_H
-#define WIDGET_H
+#ifndef SPINBOX_H
+#define SPINBOX_H
 
 #include <QWidget>
 
@@ -20,4 +20,4 @@ public:
 private:
     Ui::Widget *ui;
 };
-#endif // WIDGET_H
+#endif // SPINBOX_H
